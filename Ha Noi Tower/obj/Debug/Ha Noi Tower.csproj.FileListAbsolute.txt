@@ -1,0 +1,75 @@
+D:\Do An CTDL\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe.config
+D:\Do An CTDL\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe
+D:\Do An CTDL\Ha Noi Tower\bin\Debug\Ha Noi Tower.pdb
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.THN.resources
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha Noi Tower.exe
+D:\Do An CTDL\Ha Noi Tower\obj\Debug\Ha Noi Tower.pdb
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe.config
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\bin\Debug\Ha Noi Tower.pdb
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.THN.resources
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha Noi Tower.exe
+C:\Users\Admin\Documents\UEH\Ha Noi Tower\obj\Debug\Ha Noi Tower.pdb
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe.config
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.pdb
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.THN.resources
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.exe
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.pdb
+C:\Users\admin\Downloads\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.CustomMessageBox.resources
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe.config
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.pdb
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.CustomMessageBox.resources
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.THN.resources
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.exe
+C:\Users\Admin\Documents\UEH\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.pdb
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe.config
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\bin\Debug\Ha Noi Tower.pdb
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.CustomMessageBox.resources
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.THN.resources
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.exe
+D:\Do An CTDL\HANOITOWER\Ha Noi Tower Fixed (1)\Ha Noi Tower Fixed\Ha Noi Tower\obj\Debug\Ha Noi Tower.pdb
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe.config
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\bin\Debug\Ha Noi Tower.exe
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\bin\Debug\Ha Noi Tower.pdb
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.CustomMessageBox.resources
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.THN.resources
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha Noi Tower.exe
+C:\Users\Admin\Downloads\Ha Noi Tower\Ha Noi Tower\obj\Debug\Ha Noi Tower.pdb
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\bin\Debug\Ha Noi Tower.exe.config
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\bin\Debug\Ha Noi Tower.exe
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\bin\Debug\Ha Noi Tower.pdb
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha Noi Tower.csproj.AssemblyReference.cache
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha_Noi_Tower.CustomMessageBox.resources
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha_Noi_Tower.THN.resources
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha_Noi_Tower.Properties.Resources.resources
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha Noi Tower.csproj.GenerateResource.cache
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha Noi Tower.csproj.CoreCompileInputs.cache
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha Noi Tower.exe
+D:\HaNoiTowerPJ\Ha Noi Tower[fixed]\obj\Debug\Ha Noi Tower.pdb
